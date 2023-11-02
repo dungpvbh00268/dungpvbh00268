@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Angular and ReactJS**
 
-- 📫 How to reach me **tuanqc0712@gmail.com**
+- 📫 How to reach me **phamdung.22092003@gmail.com**
 
 - 📄 Know about my experiences [https://dungpv.vercel.app/](https://dungpv.vercel.app/)
 
